@@ -2,6 +2,8 @@
 let cacheName = "static";
 let contentToCache = [
   "/index.html",
+  "/js/storage.js",
+  "/js/draw.js",
   "/js/index.js"
 ]
 
